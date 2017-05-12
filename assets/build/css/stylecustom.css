@@ -1,0 +1,23 @@
+.flat
+{
+	border-radius:0px;
+}
+.tdsize
+{
+	width:15%; 
+	margin-left:50%;
+}
+.strong-red{
+	color:#e74c3c;
+}
+.none{
+	border:none;
+}
+.form-control.disabled{
+	border-radius:0px;
+	border-right: none;
+	border-left:none;
+	border-top: none
+	background: #dddddd;
+
+}
